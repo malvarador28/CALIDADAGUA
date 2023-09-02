@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762296129769",
+    "project_id": "calidad-del-agua-59641",
+    "storage_bucket": "calidad-del-agua-59641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762296129769:android:eff1bcc407239a8f673878",
+        "android_client_info": {
+          "package_name": "com.example.calidaddelagua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762296129769-1fdpjhn9mkcanev7f4dl04tg3titp1nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfl_txgEpgsktS7M1KE3ZoAJjivkxnPDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762296129769-1fdpjhn9mkcanev7f4dl04tg3titp1nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
